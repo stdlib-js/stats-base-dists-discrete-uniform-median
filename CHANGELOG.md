@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-01-11)
+
+<section class="features">
+
+### Features
+
+-   [`9900036`](https://github.com/stdlib-js/stdlib/commit/99000366d9c3c78af1df630e49f85fc47440ee89) - add C implementation for `stats/base/dists/discrete-uniform/median` [(#4531)](https://github.com/stdlib-js/stdlib/pull/4531)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3555](https://github.com/stdlib-js/stdlib/issues/3555)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`9900036`](https://github.com/stdlib-js/stdlib/commit/99000366d9c3c78af1df630e49f85fc47440ee89) - **feat:** add C implementation for `stats/base/dists/discrete-uniform/median` [(#4531)](https://github.com/stdlib-js/stdlib/pull/4531) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Prashant Kumar Yadav
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.1">
 
 ## 0.2.1 (2024-07-27)
