@@ -22,9 +22,9 @@
 
 // MODULES //
 
-var median = require( './main.js' );
+var main = require( './main.js' );
 
 
 // EXPORTS //
 
-module.exports = median;
+module.exports = main;
